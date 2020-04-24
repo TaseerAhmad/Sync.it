@@ -19,3 +19,12 @@ The app is based on:
 - Room DB
 - SQLCipher
 - EncryptedSharedPreference
+
+
+## F.A.Q
+
+### Would you ever complete the project?
+I don't see myself completing it anytime in the future. But that does not mean that it is abandoned. 
+
+### Do you think that Firestore is a good option for a project like this?
+Apparently, if you set it up right, it is possible to decrease the probability of increased reads/writes. Can it scale? Again, it depends on how you set things up. Firebase documentation explains different ways to modeling your database.
