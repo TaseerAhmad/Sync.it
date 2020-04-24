@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655066791040",
+    "firebase_url": "https://syncit-b6225.firebaseio.com",
+    "project_id": "syncit-b6225",
+    "storage_bucket": "syncit-b6225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655066791040:android:cab83bb59d930ec9fc7a65",
+        "android_client_info": {
+          "package_name": "com.vastalisy.syncit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655066791040-np4bgb9g6u5qrg6u0f3j3ka075939hi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vastalisy.syncit",
+            "certificate_hash": "2d11e4bd3d9c5b2d6b088aa49fd56bb84e6283fd"
+          }
+        },
+        {
+          "client_id": "655066791040-9ssg4l5opli7rtchqmh28qqr549lad12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKDjmlZDl4L0FeRVVE_0row231q-Rb_Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655066791040-9ssg4l5opli7rtchqmh28qqr549lad12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

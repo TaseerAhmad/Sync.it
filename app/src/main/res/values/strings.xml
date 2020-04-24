@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sync.it</string>
+    <string name="delete_button_tooltip">Delete note</string>
+    <string name="close_button_tooltip">Back</string>
+    <string name="syncErrorNotificationDesc">Your login session was expired or there is a problem with your internet connection. To check if you still logged in, please open the app setting.</string>
+    <string name="syncErrorNotificationTitle">Note sync failed</string>
+    <string name="syncSuccessNotificationTitle">Note sync</string>
+    <string name="syncSuccessNotificationDesc">Your notes were recently synced</string>
+</resources>
