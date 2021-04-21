@@ -40,3 +40,12 @@ I don't see myself completing it anytime in the future. But that does not mean t
 
 ### Do you think that Firestore is a good option for a project like this?
 Apparently, if you set it upright, it is possible to decrease the probability of increased reads/writes. Can it scale? Again, it depends on how you set things up. Firebase documentation explains different ways to modeling your database.
+
+### What was the hardest part of creating the app?
+I believe, creating UI/UX is my weakest point of Android development. I am not satisfied until I see the UI is 110% up to my mark. This unfortunately, consumes a lot of time, thus, creating frusturation.
+
+### What was the part you enjoyed the most while creating the app?
+I enjoy converting business logic to an actual code and I have found this repeatedly. So, making my own syncing logic, change tracker, MVVM setup, optimizations, code improvement was and is my favourite and my most engaged moment while creating an application.
+
+
+P.S, feel free to clone to improve / complete the project. But don't forget to link to the original author(me)!
